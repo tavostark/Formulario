@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="form_nombre">Nombre Completo</string>
+    <string name="form_fecha">Fecha De Nacimiento</string>
+    <string name="form_telefono">Teléfono</string>
+    <string name="form_email">Email</string>
+    <string name="form_descripcion">Descripción Contacto</string>
+    <string name="button_sig">SIGUIENTE</string>
+    <string name="button_editar">EDITAR DATOS </string>
+    <string name="confimar_datos">Confirmar Datos</string>
+    <string name="datos_nombre">Nombre:</string>
+    <string name="datos_fecha">Fecha:</string>
+    <string name="datos_telefono">Teléfono:</string>
+    <string name="datos_email">Email:</string>
+    <string name="datos_descripcion">Descripción:</string>
+
+
+
+</resources>
